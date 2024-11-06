@@ -25,7 +25,7 @@
 2. Start the application by running:
 
     ```bash
-    node EmployeeDataGenerator.js
+    node DataGenerator.js
     ```
 
     This initiates an interactive CLI session where you can configure parameters for data generation.
